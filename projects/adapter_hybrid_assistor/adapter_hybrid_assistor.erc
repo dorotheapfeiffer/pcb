@@ -1,0 +1,14 @@
+ERC report (Friday, 06 December 2019 at 21:43:16, Encoding UTF8 )
+
+***** Sheet /
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(50.80 mm, 57.15 mm): Pin 2 (Unspecified) of component F1 is connected to 
+    @(60.96 mm, 76.20 mm): pin 3 (Power input) of component U2 (net 147).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(30.48 mm, 57.15 mm): Pin 1 (Unspecified) of component F1 is connected to 
+    @(27.94 mm, 76.20 mm): pin 1 (Power output) of component J1 (net 148).
+ErrType(5): Conflict problem between pins. Severity: error
+    @(27.94 mm, 76.20 mm): Pin 1 (Power output) of component J1 is connected to 
+    @(30.48 mm, 53.34 mm): pin 1 (Power output) of component #FLG0104 (net 148).
+
+ ** ERC messages: 3  Errors 1  Warnings 2

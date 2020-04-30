@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name adapter_hybrid_assister-rescue)(type Legacy)(uri ${KIPRJMOD}/adapter_hybrid_assister-rescue.lib)(options "")(descr ""))
+)
