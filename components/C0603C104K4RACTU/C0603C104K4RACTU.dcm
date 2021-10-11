@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C0603C104K4RACTU
+D 0603 X7R ceramic capacitor, 16V 100nF Kemet 0603 0.1??F Ceramic Multilayer Capacitor, 16V dc X7R Dielectric ??10% SMD
+K
+F http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
+#End Doc Library

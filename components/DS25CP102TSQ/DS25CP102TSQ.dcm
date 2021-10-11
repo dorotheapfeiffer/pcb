@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS25CP102TSQ
+D 3.125 Gbps 2X2 LVDS Crosspoint Switch w/ TX Pre-Emphasis and RX Equalization
+K
+F http://www.ti.com/lit/gpn/ds25cp102
+$ENDCMP
+#
+#End Doc Library
