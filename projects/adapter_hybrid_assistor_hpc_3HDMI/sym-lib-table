@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "ASP-134603-01")(type "KiCad")(uri "/Users/dpfeiffe/programming/pcb/components/ASP-134603-01/ASP-134603-01.kicad_sym")(options "")(descr ""))
+  (lib (name "ASP-134604-01")(type "KiCad")(uri "/Users/dpfeiffe/programming/pcb/components/ASP-134604-01/ASP-134604-01.kicad_sym")(options "")(descr ""))
+  (lib (name "C0603C104K4RACTU")(type "KiCad")(uri "/Users/dpfeiffe/programming/pcb/components/C0603C104K4RACTU/C0603C104K4RACTU.kicad_sym")(options "")(descr ""))
+  (lib (name "DS25CP102TSQ")(type "KiCad")(uri "/Users/dpfeiffe/programming/pcb/components/DS25CP102TSQ/DS25CP102TSQ.kicad_sym")(options "")(descr ""))
+  (lib (name "10029449-001RLF")(type "KiCad")(uri "/Users/dpfeiffe/programming/pcb/components/10029449-001RLF/10029449-001RLF.kicad_sym")(options "")(descr ""))
+  (lib (name "P82B715DR")(type "KiCad")(uri "/Users/dpfeiffe/programming/pcb/components/P82B715DR/P82B715DR.kicad_sym")(options "")(descr ""))
+)

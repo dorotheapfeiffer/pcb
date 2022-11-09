@@ -1,8 +1,0 @@
-Comment,Designator,Footprint,LCSC, Field4, Field5, Field6, Field7, Field8, Description, Height, Manufacturer_Name, Manufacturer_Part_Number, Mouser Part Number, Mouser Price/Stock, RS Part Number, RS Price/Stock
-"100nF","C4,C5,C6,C7,C9,C8","C0603C104K4RACTU:C0603C104K4RACTU","","","","","","","0603 X7R ceramic capacitor, 16V 100nF Kemet 0603 0.1??F Ceramic Multilayer Capacitor, 16V dc X7R Dielectric ??10% SMD","0.87","Kemet","C0603C104K4RACTU","80-C0603C104K4R","https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0603C104K4R","2644630P","http://uk.rs-online.com/web/p/products/2644630P"
-"ASP-134604-01","J1","ASP-134604-01:Samtec_FMC_ASP-134604-01_4x40_Vertical","","Conn Array Terminal SKT 400 POS 1.27mm Solder ST SMD","Samtec Inc.","None","ASP-134604-01","None","","","","","","","",""
-"10029449-001RLF","J2,J3","10029449-001RLF:10029449001RLF","","Amphenol ICC","None","None","Unavailable","Connector, Hdmi Type a, Receptacle, 19 Position, Full Reel","","","","","","","",""
-"4.7k","R52,R51,R42,R41","Resistor_SMD:R_0603_1608Metric",""
-"330","R53,R54,R44,R43","Resistor_SMD:R_0603_1608Metric",""
-"P82B715DR","U4,U5","P82B715DR:P82B715DR","","I2C Buffer 5V/9V 8-Pin SOIC T/R","Unavailable","SOIC-8 NXP Semiconductors","P82B715DR","None","","","","","","","",""
-"DS25CP102TSQ","U9,U6,U8,U7","DS25CP102TSQ:QFN50P400X400X80-17N","","None","LLP-16 Texas Instruments","Unavailable","Texas Instruments","Ic Sw Crosspoint 3.125gbps 16llp - Ds25cp102tsq/Nopb","","","","","","","",""
